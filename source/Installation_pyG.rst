@@ -26,11 +26,11 @@ To use the Mclust-based clustering component in S3RL, please install the `rpy2` 
 Installation
 ------------
 
-Download the S3RL code from GitHub: https://github.com/YourRepo/S3RL
+Download the S3RL code from GitHub: https://github.com/AI4Bread/S3RL
 
 .. code-block:: bash
 
-   git clone https://github.com/YourRepo/S3RL.git
+   git clone https://github.com/AI4Bread/S3RL.git
    cd S3RL
    python setup.py build
    python setup.py install
