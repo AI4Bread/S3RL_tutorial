@@ -14,13 +14,15 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
-project = 'STAGATE'
-copyright = '2021, Kangning Dong'
-author = 'Kangning Dong'
-
+project = 'S3RL'
+copyright = '2025, AI4BREAD'
+author = 'Laiyi Fu, Penglei Wang & Gaoyuan Xu etc.'
+ 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
