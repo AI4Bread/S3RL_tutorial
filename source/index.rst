@@ -23,7 +23,7 @@ S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via
    AT1
    AT2
 
-.. image:: ../Figure1_newv3.pdf
+.. image:: ../Figure1_newv3.png
    :width: 600
 
 
