@@ -28,7 +28,7 @@ S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via
 
 News
 ========
-2025.04.10 S3RL is now available on GitHub at https://github.com/YourRepo/S3RL.  
+2025.04.10 S3RL is now available on GitHub at https://github.com/AI4Bread/S3RL.  
 S3RL is implemented based on PyTorch Geometric (pyG) and supports efficient training and flexible batch processing for large-scale spatial transcriptomics datasets.  
 
 The model provides enhanced spatial representation learning through the use of a Graph Transformer architecture and hyperspherical prototype clustering for clear domain separation.  
