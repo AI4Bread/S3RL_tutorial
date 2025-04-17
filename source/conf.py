@@ -61,12 +61,16 @@ html_static_path = ['_static']
 #]
 html_theme_options = {
     "display_version": True,
-    "prev_next_buttons_location": "bottom",
     "style_external_links": True,
-    # Remove or leave empty to disable default VCS pageview behavior
-    "vcs_pageview_mode": "",  
-    "style_nav_header_background": "#2980B9",
+    "vcs_pageview_mode": "blob",  # 必须是 "blob"
     "navigation_with_keys": False,
-    # Explicitly set the repository link
-    "github_url": "https://github.com/AI4Bread/S3RL_tutorial/tree/main",  # Point to the main repo URL (not tree/main)
+    "github_url": "https://github.com/AI4Bread/S3RL_tutorial",
+}
+
+html_context = {
+    "display_github": True,
+    "github_user": "AI4Bread",
+    "github_repo": "S3RL_tutorial",
+    "github_version": "main",
+    "conf_py_path": "source/",  # 注意这里是你 notebook 文件所在的相对路径
 }
