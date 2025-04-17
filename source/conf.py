@@ -63,10 +63,10 @@ html_theme_options = {
     "display_version": True,
     "prev_next_buttons_location": "bottom",
     "style_external_links": True,
-    "vcs_pageview_mode": "",
+    # Remove or leave empty to disable default VCS pageview behavior
+    "vcs_pageview_mode": "",  
     "style_nav_header_background": "#2980B9",
-
-    # ✅ 强制跳转到主仓库目录
     "navigation_with_keys": False,
-    "github_url": "https://github.com/AI4Bread/S3RL_tutorial/tree/main",
+    # Explicitly set the repository link
+    "github_url": "https://github.com/AI4Bread/S3RL_tutorial",  # Point to the main repo URL (not tree/main)
 }
