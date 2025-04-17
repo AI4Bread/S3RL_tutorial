@@ -39,4 +39,5 @@ The learned low-dimensional embeddings and reconstructed expression matrices can
 
 Citation
 ========
-Fu, Laiyi, and [Your collaborators]. "S3RL: Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering." *[Target Journal]*, 2025.
+Fu, Laiyi†, Penglei Wang†, Gaoyuan Xu†, Jitao Lu, Hequan Sun, and Danyang Wu*.  
+*S3RL: Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering.* *in review*, 2025.
