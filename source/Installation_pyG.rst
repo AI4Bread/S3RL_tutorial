@@ -87,4 +87,4 @@ To start training, run the following command:
 
 .. code-block:: bash
 
-bash demo_train.sh
+   bash demo_train.sh
