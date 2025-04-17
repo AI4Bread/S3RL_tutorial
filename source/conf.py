@@ -71,6 +71,6 @@ html_context = {
     "display_github": True,
     "github_user": "AI4Bread",
     "github_repo": "S3RL_tutorial",
-    "github_version": "main",
+    "github_version": "main/",
     "conf_py_path": "source/",  # 注意这里是你 notebook 文件所在的相对路径
 }
