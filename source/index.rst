@@ -26,16 +26,11 @@ News
 S3RL is implemented based on PyTorch Geometric (pyG) and supports efficient training and flexible batch processing for large-scale spatial transcriptomics datasets.  
 
 The model provides enhanced spatial representation learning through the use of a Graph Transformer architecture and hyperspherical prototype clustering for clear domain separation.  
-Please refer to Tutorials 7 and 8 for training strategies and batch processing guidance.
+Please refer to Tutorials 1-5 for training strategies and batch processing guidance.
 
 Introduction
 ========
-S3RL is a novel framework designed for spatial clustering, denoising, and interpretation of spatially resolved transcriptomics (ST) data. 
-
-By leveraging a Graph Transformer encoder and hyperspherical prototype clustering, S3RL effectively captures both gene expression patterns and spatial dependencies.  
-It constructs a separable embedding space where cells with similar transcriptional and spatial features are compactly grouped while maintaining angular separation across distinct spatial domains.
-
-The learned low-dimensional embeddings and reconstructed expression matrices can be directly used for a variety of downstream tasks, including spatial domain identification, visualization, spatial trajectory inference, denoising, and multi-slice or 3D tissue integration.
+Spatial transcriptomics enables the exploration of cell types, spatial domain organization, and cell–cell communication at tissue scale, serving as a powerful link between tissue morphology and molecular function. However, existing methods still struggle with limited spatial resolution, poor robustness in multi-slice alignment, and suboptimal ligand-receptor (L-R) detection in complex tissues. To address these challenges, we propose S3RL (Separable Spatial Single-cell Representation Learning), a unified framework that integrates gene expression, spatial coordinates, and histological image features via a graph neural network and hyperspherical prototype-based separable representation learning. In spatial clustering tasks, S3RL improves the Adjusted Rand Index (ARI) by over 52\% on the Nanostring lung cancer dataset and over 26\% on the 10X DLPFC dataset compared to state-of-the-art methods. For multi-slice spatial alignment, S3RL achieves an average ARI improvement of over 65.4\% in partial brain slices and over 48.3\% in complete slices relative to GraphST, highlighting its superior robustness and alignment consistency across heterogeneous spatial inputs. Moreover, S3RL reveals more biologically meaningful ligand-receptor signaling relationships, enhancing the interpretability of cell-cell communication patterns. Together, these results demonstrate S3RL’s effectiveness in enhancing spatial resolution, cell type identification, and biological insight across diverse spatial transcriptomics datasets.
 
 Citation
 ========
