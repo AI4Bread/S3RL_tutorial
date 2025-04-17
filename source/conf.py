@@ -59,10 +59,14 @@ html_static_path = ['_static']
 #html_css_files = [
 #    'custom.css',
 #]
-html_context = {
-    "display_github": True,
-    "github_user": "AI4Bread",
-    "github_repo": "S3RL_tutorial",
-    "github_version": "main",
-    "conf_py_path": "/",  # 设置为根目录即可
+html_theme_options = {
+    "display_version": True,
+    "prev_next_buttons_location": "bottom",
+    "style_external_links": True,
+    "vcs_pageview_mode": "",
+    "style_nav_header_background": "#2980B9",
+
+    # ✅ 强制跳转到主仓库目录
+    "navigation_with_keys": False,
+    "github_url": "https://github.com/AI4Bread/S3RL_tutorial/tree/main",
 }
