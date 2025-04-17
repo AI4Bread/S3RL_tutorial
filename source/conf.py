@@ -59,3 +59,10 @@ html_static_path = ['_static']
 #html_css_files = [
 #    'custom.css',
 #]
+html_context = {
+    "display_github": True,
+    "github_user": "AI4Bread",
+    "github_repo": "S3RL_tutorial",
+    "github_version": "main",
+    "conf_py_path": "/",  # 设置为根目录即可
+}
