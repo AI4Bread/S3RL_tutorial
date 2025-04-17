@@ -66,21 +66,21 @@ Download the datasets and place them in the Data directory, ensuring the directo
 
 .. code-block:: text
 
-S3RL
-├── Data
-│   ├── DLPFC
-│   │   ├── 151673
-│   │   ├── 151674
-│   ├── Nanostring
-│   ├── Human_Breast_Cancer
-│   ├── Mouse_Brain_Anterior
+   S3RL
+   ├── Data
+   │   ├── DLPFC
+   │   │   ├── 151673
+   │   │   ├── 151674
+   │   ├── Nanostring
+   │   ├── Human_Breast_Cancer
+   │   ├── Mouse_Brain_Anterior
 
 Processed datasets can be downloaded from the following links:
-	•	DLPFC <https://github.com/LieberInstitute/spatialLIBD?tab=readme-ov-file#raw-data>_
-	•	Nanostring <https://purdue0-my.sharepoint.com/personal/tang385_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftang385%5Fpurdue%5Fedu%2FDocuments%2FSigra%5Fdataset&ga=1>_
-	•	Human_Breast_Cancer <https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0>_
-	•	Mouse_Brain_Anterior <https://drive.google.com/drive/folders/1jDmx8IjiGhOD__spuuhFB1fWVDJtv5CU>_
 
+- `DLPFC <https://github.com/LieberInstitute/spatialLIBD?tab=readme-ov-file#raw-data>`__
+- `Nanostring <https://purdue0-my.sharepoint.com/personal/tang385_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftang385%5Fpurdue%5Fedu%2FDocuments%2FSigra%5Fdataset&ga=1>`__
+- `Human Breast Cancer <https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0>`__
+- `Mouse Brain Anterior <https://drive.google.com/drive/folders/1jDmx8IjiGhOD__spuuhFB1fWVDJtv5CU>`__
 Running the Model
 
 To start training, run the following command:
