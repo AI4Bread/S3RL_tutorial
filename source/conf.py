@@ -68,5 +68,5 @@ html_theme_options = {
     "style_nav_header_background": "#2980B9",
     "navigation_with_keys": False,
     # Explicitly set the repository link
-    "github_url": "https://github.com/AI4Bread/S3RL_tutorial",  # Point to the main repo URL (not tree/main)
+    "github_url": "https://github.com/AI4Bread/S3RL_tutorial/tree/main",  # Point to the main repo URL (not tree/main)
 }
