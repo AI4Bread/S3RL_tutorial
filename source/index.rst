@@ -10,20 +10,13 @@ S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via
    :maxdepth: 1
 
    Installation_pyG
-   T1_DLPFC
-   T2_Nanostring
-   T2_MouseBrain
-   T3_Slide-seqV2
-   T4_Stereo
-   T5_3D
+   Tutorial-DLPFC
+   Tutorial-Nanostring
+   Tutorial-Mouse_Brain_Anterior
+   Tutorial-Human_Breast_Cancer
    T6_L-R_pairs
-   T7_pyG
-   T8_Batch
-   T9_STARmap
-   AT1
-   AT2
 
-.. image:: ../Figure1_newv3.png
+.. image:: ../Figure1_newv4.png
    :width: 600
 
 
