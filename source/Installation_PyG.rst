@@ -33,10 +33,10 @@ After installing the required packages, simply run the following command to inst
    pip install S3RL --index-url https://pypi.org/simple
 
 
-The code is tested with Python 3.7.12 and PyTorch 1.13.0 on a single NVIDIA GeForce RTX 3090 GPU.
+*The code is tested with Python 3.7.12 and PyTorch 1.13.0 on a single NVIDIA GeForce RTX 3090 GPU.
 If you encounter any issues, please check the compatibility of the packages in requirements.txt with your Python version.
 Additionally, different versions of libraries and different GPU devices may lead to varied outcomes,
-So to reproduce our results, please use the same versions and hardware configuration as specified.
+so to reproduce our results, please use the same versions and hardware configuration as specified.*
 
 
 Data Preparation
