@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Installation (pyG framework)
+Installation (PyG framework)
 ============
 
 Software Dependencies
@@ -61,6 +61,6 @@ Processed datasets can be downloaded from the following links:
 - `Human Breast Cancer <https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0>`__
 - `Mouse Brain Anterior <https://drive.google.com/drive/folders/1jDmx8IjiGhOD__spuuhFB1fWVDJtv5CU>`__
 
-Besides, we provide the code of SimCLR for extracting the semantic features of the images, which can be found in the link `SimCLR <https://github.com/yourrepo/SimCLR>`__.
+Besides, we provide the code of SimCLR for extracting the semantic features of the images, which can be found in the link `SimCLR <https://github.com/AI4Bread/S3RL/tree/main/Img_encoder>`__.
 
-Finally, we provide the configurations used in our experiments in the link `configuration <https://github.com/yourrepo/configuration>`__ for reproducing the results reported in the paper.
+Finally, we provide the configurations used in our experiments in the link `configuration <https://github.com/AI4Bread/S3RL/tree/main/Best_cfg>`__ for reproducing the results reported in the paper.
