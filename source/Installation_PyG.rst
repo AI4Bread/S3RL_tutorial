@@ -61,8 +61,8 @@ All datasets can be downloaded from the following links:
 - `Human Breast Cancer <https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0>`__
 - `Mouse Brain Anterior <https://drive.google.com/drive/folders/1jDmx8IjiGhOD__spuuhFB1fWVDJtv5CU>`__
 
-We also provide the processed datasets for the four datasets used in our experiments, which can be accessed via the link processed datasets <https://github.com/AI4Bread/S3RL/tree/main/Data>__.
+We also provide the processed datasets for the four datasets used in our experiments, which can be accessed via the link `processed datasets <https://github.com/AI4Bread/S3RL/tree/main/Data>`__.
 
-Additionally, we offer the SimCLR code used for extracting semantic features from the images, available at the link SimCLR <https://github.com/AI4Bread/S3RL/tree/main/Img_encoder>__.
+Additionally, we offer the SimCLR code used for extracting semantic features from the images, available at the link `SimCLR <https://github.com/AI4Bread/S3RL/tree/main/Img_encoder>__`.
 
-Finally, the configurations used in our experiments are available at the link configuration <https://github.com/AI4Bread/S3RL/tree/main/Best_cfg>__, enabling the reproduction of the results reported in the paper.
+Finally, the configurations used in our experiments are available at the link `configuration <https://github.com/AI4Bread/S3RL/tree/main/Best_cfg>__`, enabling the reproduction of the results reported in the paper.
