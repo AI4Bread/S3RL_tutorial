@@ -9,7 +9,7 @@ S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via
 .. toctree::
    :maxdepth: 1
 
-   Installation_pyG
+   Installation_PyG
    Tutorial-DLPFC
    Tutorial-Nanostring
    Tutorial-Mouse_Brain_Anterior
