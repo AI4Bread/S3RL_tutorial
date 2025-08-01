@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering
+S3RL – Separable Spatial Single-cell Transcriptome Representation Learning for Enhanced Reconstruction of Spatial Transcriptomic Landscapes
 =============================================================================
 
 .. toctree::
@@ -30,7 +30,7 @@ Please refer to Tutorials 1-5 for training strategies and batch processing guida
 
 Introduction
 ========
-Spatial transcriptomics enables the exploration of cell types, spatial domain organization, and cell–cell communication at tissue scale, serving as a powerful link between tissue morphology and molecular function. However, existing methods still struggle with limited spatial resolution, poor robustness in multi-slice alignment, and suboptimal ligand-receptor (L-R) detection in complex tissues. To address these challenges, we propose S3RL (Separable Spatial Single-cell Representation Learning), a unified framework that integrates gene expression, spatial coordinates, and histological image features via a graph neural network and hyperspherical prototype-based separable representation learning. In spatial clustering tasks, S3RL improves the Adjusted Rand Index (ARI) by over 52\% on the Nanostring lung cancer dataset and over 26\% on the 10X DLPFC dataset compared to state-of-the-art methods. For multi-slice spatial alignment, S3RL achieves an average ARI improvement of over 65.4\% in partial brain slices and over 48.3\% in complete slices relative to GraphST, highlighting its superior robustness and alignment consistency across heterogeneous spatial inputs. Moreover, S3RL reveals more biologically meaningful ligand-receptor signaling relationships, enhancing the interpretability of cell-cell communication patterns. Together, these results demonstrate S3RL’s effectiveness in enhancing spatial resolution, cell type identification, and biological insight across diverse spatial transcriptomics datasets.
+Spatial transcriptomics enables in situ mapping of gene expression, offering insights into tissue organization and cell–cell interactions. However, its utility is limited by data sparsity and technical noise for decoding complex tissue microenvironments. Here, we introduce S3RL, a representation learning framework designed to enhance the fidelity of spatial transcriptomic data. By effectively denoising sparse measurements and amplifying biologically relevant signals, S3RL enables the recovery of fine-grained spatial expression patterns and regulatory relationships that are otherwise lost. Applied across diverse human, mouse and plant tissues, S3RL not only improves spatial domain identification and multi-slice alignment (up to 120\% ARI improvement) but also uncovers previously unrecognized ligand–receptor signaling and spatial gene expression gradients critical for understanding immune-tumor crosstalk and plant developmental trajectories. These results establish S3RL as a powerful tool for extracting latent biological programs from noisy spatial transcriptomic datasets, paving the way for deeper exploration of tissue biology and disease mechanisms.
 
 Citation
 ========
