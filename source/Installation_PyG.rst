@@ -61,6 +61,9 @@ All datasets can be downloaded from the following links:
 - `Nanostring <https://purdue0-my.sharepoint.com/personal/tang385_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftang385%5Fpurdue%5Fedu%2FDocuments%2FSigra%5Fdataset&ga=1>`__
 - `Human Breast Cancer <https://www.10xgenomics.com/resources/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0>`__
 - `Mouse Brain Anterior <https://drive.google.com/drive/folders/1jDmx8IjiGhOD__spuuhFB1fWVDJtv5CU>`__
+- `Human Lung Cancer <https://drive.google.com/drive/folders/14ZHjGeyyVUnYn_0EqpHmNVo1V1F5B1Hx>`__
+- `Mouse Hippocampus Starmap <https://drive.google.com/drive/folders/14ZHjGeyyVUnYn_0EqpHmNVo1V1F5B1Hx>`__
+- `Soybean <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE270392>`__
 
 We also provide the processed datasets for the four datasets used in our experiments, which can be accessed via the link `processed datasets <https://1drv.ms/f/c/e335a8f5a4880556/Ei9UsIT2MVhEuWDQL92VKFMBkUVuETP2800R5YFJFVLmQg?e=naZfgF>`_.
 
