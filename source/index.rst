@@ -35,4 +35,4 @@ Spatial transcriptomics enables in situ mapping of gene expression, offering ins
 Citation
 ========
 Fu, Laiyi†, Penglei Wang†, Gaoyuan Xu†, Jitao Lu, Hequan Sun, and Danyang Wu*.  
-*S3RL: Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering.* *in review*, 2025.
+*S3RL: Separable Spatial Single-cell Transcriptome Representation Learning for Enhanced Reconstruction of Spatial Transcriptomic Landscapes.* *in review*, 2025.
