@@ -16,7 +16,7 @@ S3RL – Separable Spatial Single-cell Transcriptome Representation Learning via
    Tutorial-Human_Breast_Cancer
    T6_L-R_pairs
 
-.. image:: ../Figure1_newv4.png
+.. image:: ../Figure1_overview_v5.png
    :width: 600
 
 
